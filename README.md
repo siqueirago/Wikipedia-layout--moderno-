@@ -1,6 +1,6 @@
 # Wikipedia Modernizada
-Este projeto é parte do desafio do curso Formação HTML Web Developer oferecido pela DIO (Digital Innovation One). O objetivo deste desafio é criar uma versão modernizada do site Wikipedia,
-foi desenvolvido para fins educacionais e para demonstrar o uso de técnicas modernas de desenvolvimento web aplicando conceitos de HTML semântico, CSS para design responsivo, e técnicas de acessibilidade para melhorar a experiência do usuário.
+Este projeto é parte do desafio do curso Formação HTML Web Developer oferecido pela DIO (Digital Innovation One). O objetivo deste desafio é criar uma versão modernizada do site Wikipedia.
+Este projeto foi desenvolvido para fins educacionais e para demonstrar o uso de técnicas modernas de desenvolvimento web aplicando conceitos de HTML semântico, CSS para design responsivo, e técnicas de acessibilidade para melhorar a experiência do usuário.
 
 Na Wikipedia Modernizada, focamos em tornar a navegação mais intuitiva e acessível para todos os usuários, com funcionalidades como suporte ao modo escuro, um menu suspenso interativo, e uma estrutura de conteúdo organizada semanticamente. Este projeto é uma excelente oportunidade para aplicar e demonstrar as habilidades adquiridas durante o curso.
 
