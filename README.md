@@ -4,10 +4,6 @@ Este projeto foi desenvolvido para fins educacionais e para demonstrar o uso de 
 
 Na Wikipedia Modernizada, focamos em tornar a navegação mais intuitiva e acessível para todos os usuários, com funcionalidades como suporte ao modo escuro, um menu suspenso interativo, e uma estrutura de conteúdo organizada semanticamente. Este projeto é uma excelente oportunidade para aplicar e demonstrar as habilidades adquiridas durante o curso.
 
-# Wikipedia Modernizada
-
-Uma versão modernizada do site Wikipedia, utilizando conceitos de semântica e acessibilidade para melhorar a experiência do usuário e a navegabilidade. Este projeto inclui um design responsivo, suporte a modo escuro e um menu suspenso interativo.
-
 ## Visão Geral
 
 Este projeto é uma reimaginação moderna do site Wikipedia, com foco em acessibilidade e design responsivo. Ele foi construído usando HTML5 e CSS3, aproveitando técnicas modernas de desenvolvimento web para garantir uma experiência de usuário otimizada.
